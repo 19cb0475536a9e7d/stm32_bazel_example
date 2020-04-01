@@ -1,0 +1,9 @@
+# Use our custom-configured c++ toolchain.
+
+build:stm32 --crosstool_top=//toolchain:arm-none-eabi
+build:stm32 --cpu=armeabi-v7a
+
+# Use the default Bazel C++ toolchain to build the tools used during the
+# build.
+
+# build:stm32 --host_crosstool_top=@bazel_tools//tools/cpp:toolchain
