@@ -1,0 +1,6 @@
+/home/user/Projects/cheap_brewery/software/brewery/build/CMakeFiles/rebuild_cache.dir
+/home/user/Projects/cheap_brewery/software/brewery/build/CMakeFiles/edit_cache.dir
+/home/user/Projects/cheap_brewery/software/brewery/build/CMakeFiles/size.dir
+/home/user/Projects/cheap_brewery/software/brewery/build/CMakeFiles/flash.dir
+/home/user/Projects/cheap_brewery/software/brewery/build/CMakeFiles/dump.dir
+/home/user/Projects/cheap_brewery/software/brewery/build/CMakeFiles/brewery_controller.elf.dir
